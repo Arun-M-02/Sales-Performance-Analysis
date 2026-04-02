@@ -128,11 +128,8 @@ day_type = IF(WEEKDAY(Dates[Date],2) <= 5, "WeekDay","WeekEnd")
 - **Power BI**
   - Data Modeling (Star Schema)
   - Advanced DAX Measures
-  - Interactive Dashboard Design  
-
-- **Python**
-  - Synthetic Data Generation (Pandas, NumPy)  
-
+  - Interactive Dashboard Design
+  - 
 - **CSV Files**
   - Source data storage  
 
